@@ -1,7 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/floriankark/DL4MoleculesProject/HuggingFaceDoingChemistry.png">
-    <img alt="Hugging Face Transformers Library" src="https://github.com/floriankark/DL4MoleculesProject/HuggingFaceDoingChemistry.png" width="352" height="59" style="max-width: 100%;">
+    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/DL4MoleculesProject/HuggingFaceDoingChemistry.png" width="352" height="59" style="max-width: 100%;">
   </picture>
   <br/>
   <br/>
