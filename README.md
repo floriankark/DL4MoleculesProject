@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/DL4MoleculesProject/HuggingFaceDoingChemistry.png" width="352" height="59" style="max-width: 100%;">
+    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/DL4MoleculesProject/blob/main/HuggingFaceDoingChemistry.png" width="352" height="59" style="max-width: 100%;">
   </picture>
   <br/>
   <br/>
