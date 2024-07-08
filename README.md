@@ -6,7 +6,7 @@
 <a href="https://github.com/floriankark/DL4MoleculesProject/pulls"><img src="https://img.shields.io/github/issues-pr/floriankark/DL4MoleculesProject" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/floriankark/DL4MoleculesProject/issues"><img src="https://img.shields.io/github/issues/floriankark/DL4MoleculesProject" alt="Issues Badge"/></a>
 <a href="https://github.com/floriankark/DL4MoleculesProject/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/floriankark/DL4MoleculesProject?color=2b9348"></a>
-<a href="https://github.com/floriankark/DL4MoleculesProject/blob/master/LICENSE"><img src="https://img.shields.io/github/license/floriankark/DL4MoleculesProject/?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/floriankark/DL4MoleculesProject/blob/master/LICENSE"><img src="https://img.shields.io/github/license/floriankark/DL4MoleculesProject?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Special thanks to DeepChem and Hugging Face! Have a look at them <a href="https://huggingface.co/docs/transformers/tasks/sequence_classification">here</a> and <a href="https://deepchem.io/">here</a></i></p>
