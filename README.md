@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/DL4MoleculesProject/blob/main/HuggingFaceDoingChemistry.png">
+    <img alt="Hugging Face Emoji" src="https://github.com/floriankark/DL4MoleculesProject/blob/main/HuggingFaceDoingChemistry.png" width="50%">
   </picture>
   <br/>
   <br/>
