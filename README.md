@@ -1,5 +1,5 @@
 <h1 align="center">Self-Improvement for small molecule Transformer Networks</h1>
-<p align="center"><i>Project Work for the course Applications of Transformer Networks in Bio- and Cheminformatics at HHU Düsseldorf</i></p>
+<p align="center"><i>Project Work for the course Applications of Transformer Networks in Bio- and Cheminformatics at <a href="https://www.hhu.de/">HHU Düsseldorf</a></i></p>
 <div align="center">
 <a href="https://github.com/floriankark/DL4MoleculesProject/stargazers"><img src="https://img.shields.io/github/stars/floriankark/DL4MoleculesProject" alt="Stars Badge"/></a>
 <a href="https://github.com/floriankark/DL4MoleculesProject/network/members"><img src="https://img.shields.io/github/forks/floriankark/DL4MoleculesProject" alt="Forks Badge"/></a>
