@@ -1,3 +1,4 @@
+<p align="center">![Hugging Face emoji doing chemistry](https://github.com/floriankark/DL4MoleculesProject/HuggingFaceDoingChemistry.png)</p>
 <h1 align="center">Self-Improvement for small molecule Transformer Networks</h1>
 <p align="center"><i>Project Work for the course Applications of Transformer Networks in Bio- and Cheminformatics at <a href="https://www.hhu.de/">HHU Düsseldorf</a></i></p>
 <div align="center">
