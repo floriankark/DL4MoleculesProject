@@ -29,8 +29,8 @@ Training the model on data points where it is already making likely correct pred
 
 ## Methodology
 ### Confidence Criteria
-- **Prediction Score:** Focus on scores with moderate confidence (not too close to 0 or 1).
-- **Similarity to Training Molecules:** Measure similarity using Jaccard distance between molecule fingerprints. Select data points not too similar to the training data but still accurate.
+- **Prediction Score:** Focus on scores with moderate confidence (not too close to 0.5 or 1).
+- **Similarity to Training Molecules:** Out of distribution (OOD) detection for the additional SMILES dataset (as out-dist) on the BBB dataset (in-dist). Alternative: Measure similarity using Jaccard distance between molecule fingerprints.
 
 ## Dataset
 - **BBB Dataset:** Binary labels for 2000+ compounds on their blood-brain barrier permeability.
